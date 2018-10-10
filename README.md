@@ -1,1 +1,1 @@
-# tsk_js
+Autor: Marta Frąckowiak 
